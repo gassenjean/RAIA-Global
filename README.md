@@ -49,6 +49,13 @@ Metodologias comprovadas:
 - **PROJETOS>Prompts:** Metodologia Pastor Jonathan
 - **Métricas do Reino:** ROI espiritual quantificável
 
+### 🎯 [Estratégia](./estrategia/)
+Pensamento estratégico para maximizar impacto:
+- **[50 Perguntas Estratégicas](./estrategia/perguntas-estrategicas.md)** - Framework para decisões críticas
+- **Roadmaps de Crescimento** - Planejamento de longo prazo
+- **Análises de Mercado** - Posicionamento global
+- **Innovation Labs** - Pesquisa e desenvolvimento
+
 ### 📚 [Documentação Oficial](./documentacao/)
 - [Estatuto RAIA](./documentacao/estatuto-oficial.md)
 - [Manual de Implementação](./documentacao/manual-implementacao.md)
@@ -76,6 +83,11 @@ Metodologias comprovadas:
 2. Leia [Guidelines de Contribuição](./CONTRIBUTING.md)
 3. Implemente [Framework MIDAS](./frameworks/midas-ministerial/)
 
+### Para Líderes Estratégicos:
+1. Estude [50 Perguntas Estratégicas](./estrategia/perguntas-estrategicas.md)
+2. Abra [Discussão Estratégica](https://github.com/gassenjean/RAIA-Global/issues/new?template=discussao_estrategica.md)
+3. Participe do [Roadmap 2025-2030](./estrategia/roadmap-global.md)
+
 ### Para Igrejas Locais:
 1. Acesse [Manual de Implementação](./documentacao/manual-implementacao.md)
 2. Escolha [Casos de Uso](./documentacao/casos-uso/) relevantes
@@ -94,6 +106,20 @@ Metodologias comprovadas:
 - [ ] 100+ colaboradores ativos
 - [ ] 10.000+ usuários de sistemas RAIA
 - [ ] Referência mundial em IA ministerial
+
+## 🎯 PENSAMENTO ESTRATÉGICO
+
+### **Questões Fundamentais:**
+- Como criar network effects que tornem RAIA indispensável?
+- Que funcionalidade única faria pastores abandonarem métodos tradicionais?
+- Como transformar cada usuário em multiplicador da plataforma?
+
+**💡 [Explore todas as 50 perguntas estratégicas →](./estrategia/perguntas-estrategicas.md)**
+
+### **Participe das Discussões:**
+- 🎯 [Abrir nova discussão estratégica](https://github.com/gassenjean/RAIA-Global/issues/new?template=discussao_estrategica.md)
+- 💬 [Ver discussões ativas](https://github.com/gassenjean/RAIA-Global/issues?q=is%3Aissue+is%3Aopen+label%3Aestrategia)
+- 📊 [Acompanhar roadmap](./estrategia/roadmap-global.md)
 
 ## 🙏 PRINCÍPIOS FUNDAMENTAIS
 
@@ -118,6 +144,10 @@ Pastor Jonathan Gordim Conceição
 📧 [Email oficial]  
 📱 Grupos WhatsApp RAIA
 
+**Discussões Estratégicas:**  
+🎯 [GitHub Issues](https://github.com/gassenjean/RAIA-Global/issues)  
+💬 [Discord Estratégia](https://discord.gg/raia-strategy)
+
 ---
 
 **🔥 "A tecnologia é neutra. O que importa é quem a usa e com que propósito."**  
@@ -129,6 +159,7 @@ Pastor Jonathan Gordim Conceição
 🍴 **Fork** para sua denominação  
 📢 **Compartilhe** em sua rede ministerial  
 💬 **Discuta** melhorias nos Issues  
+🎯 **Participe** das discussões estratégicas
 🚀 **Implemente** em sua igreja local
 
 ---
